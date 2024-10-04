@@ -1,0 +1,12 @@
+<suite name="RegressionSuite" verbose="1" >
+    <test name="Regression" >
+        <classes>
+            <class name="com.herokuapp.tests.BrokenImagesPageTest"/>
+            <class name="com.herokuapp.tests.CheckboxPageTest"/>
+            <class name="com.herokuapp.tests.DragAndDropPageTest"/>
+            <class name="com.herokuapp.tests.DropdownPageTest"/>
+            <class name="com.herokuapp.tests.MouseHoverPageTest"/>
+            <class name="com.herokuapp.tests.FileDownloadPageTest"/>
+        </classes>
+    </test>
+</suite>
